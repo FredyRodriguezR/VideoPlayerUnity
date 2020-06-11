@@ -3,7 +3,7 @@
 "productName": "VideoPlayer",
 "productVersion": "0.1",
 "dataUrl": "VideoPlayer.data.unityweb",
-"wasmCodeUrl": "VideoPlayer.wasm.code.unityweb",
+"wasmCodeUrl": "VideoPlayer.wasm",
 "wasmFrameworkUrl": "VideoPlayer.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
